@@ -5,6 +5,10 @@ venv*
 download
 download/
 
+downloads
+downloads/
+downloads*
+
 .com.google*
 
 # General
